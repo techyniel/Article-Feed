@@ -15,9 +15,7 @@ A simple blog for demonstration purpose. Based on Laravel 7.0
 - JSON PHP Extension
 - BCMath PHP Extension
 
-## Demo
 
-You can try the live demo : [])
 
 ## Demo login info
 
